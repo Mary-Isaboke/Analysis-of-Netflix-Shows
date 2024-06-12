@@ -19,4 +19,4 @@ The dataset contains the following columns:
 - Data Import Issues: Initially, I faced issues with the format of the date and duration columns during the import process. I had to adjust the column definitions and ensure that the CSV file was correctly formatted.
 - Handling Null Values: Some columns had a significant number of null values, especially the 'director' and 'country' columns. This required additional handling in the SQL queries.
 ### Interesting Insights
-One interesting insight from the analysis was the diversity of genres available on Netflix. The dataset revealed that certain genres, such as Documentaries and Stand-Up Comedy, have a significantly higher count compared to others. This reflects Netflix's strategy of catering to a wide range of audience preferences.
+- One interesting insight from the analysis was the diversity of genres available on Netflix. The dataset revealed that certain genres, such as Documentaries and Stand-Up Comedy, have a significantly higher count compared to others. This reflects Netflix's strategy of catering to a wide range of audience preferences.
